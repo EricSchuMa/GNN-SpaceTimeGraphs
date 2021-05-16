@@ -1,2 +1,9 @@
 *.h5
 *speed_matrix_2015
+*.ipynb_checkpoints
+*.npz
+*.npy
+*__pycache__
+*.pt
+*losses*
+*.csv

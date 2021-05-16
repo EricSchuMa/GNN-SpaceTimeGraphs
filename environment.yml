@@ -11,7 +11,12 @@ dependencies:
   - networkx
   - yapf
   - pip
+  - configargparse
+  - optuna
   - pip:
       - torch-geometric
       - pip-tools
+      - node2vec
+      - deepwalk
+      - tables
 
